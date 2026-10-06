@@ -1,6 +1,6 @@
 package ni.edu.uam.gestionproducto.controller;
 
-import ni.edu.uam.gestionproducto.model.Proveedor;
+import ni.edu.uam.gestionproducto.entity.Proveedor;
 import ni.edu.uam.gestionproducto.repository.ProveedorRepository;
 import org.springframework.web.bind.annotation.*;
 
